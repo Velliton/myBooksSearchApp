@@ -1,0 +1,27 @@
+.header{
+    margin-bottom: 40px;
+    &-content{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        min-height: 75vh;
+        background: linear-gradient(rgba(141, 39, 174, 0.3), rgba(141, 39, 174, 0.5)), url("../../assets/library-img.jpg") center/cover no-repeat;
+        flex-direction: column;
+    }
+    &-title{
+        font-size: 4.2rem;
+    }
+    &-text{
+        margin-top: -1.8rem;
+        margin-bottom: 2.8rem;
+        opacity: 0.8;
+        max-width: 770px;
+    }
+}
+
+
+.sort-forms{
+    display: flex;
+    gap:20px;
+}

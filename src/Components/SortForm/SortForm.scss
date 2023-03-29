@@ -1,0 +1,20 @@
+select {
+    padding: 8px 25px 8px 16px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    background-color:#fff;
+    box-shadow: none;
+    opacity: 0.9;
+  }
+  
+  select:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  select option {
+    font-size: 2rem;
+    color: #333;
+  }
+  
