@@ -175,9 +175,9 @@ function App() {
        handleCategoryChange={handleCategoryChange}
        categories={categories}
      />
-     {search?
+     {/* {search?
      <p>{totalItems}</p>:null
-   }
+   } */}
      
      <Main
        loading={loading}
@@ -186,9 +186,7 @@ function App() {
        books={books}
        setBooks={setBooks}
      />
-    <CardDetails
-    books={books}
-    />
+  
 
    <Routes>
         <Route exact path="/" component={Main} />
