@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/myBooksSearchApp/static/css/main.8cbacb39.css",
+    "main.css": "/myBooksSearchApp/static/css/main.906a9e9f.css",
     "main.js": "/myBooksSearchApp/static/js/main.8712ab28.js",
     "static/media/library-img.jpg": "/myBooksSearchApp/static/media/library-img.4c355c0290b94d1fe920.jpg",
     "index.html": "/myBooksSearchApp/index.html",
-    "main.8cbacb39.css.map": "/myBooksSearchApp/static/css/main.8cbacb39.css.map",
+    "main.906a9e9f.css.map": "/myBooksSearchApp/static/css/main.906a9e9f.css.map",
     "main.8712ab28.js.map": "/myBooksSearchApp/static/js/main.8712ab28.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cbacb39.css",
+    "static/css/main.906a9e9f.css",
     "static/js/main.8712ab28.js"
   ]
 }
